@@ -1,0 +1,23 @@
+{
+  "name": "discord-code-block-theme",
+  "publisher": "its-a-me-dood",
+  "displayName": "Discord Code Block Theme",
+  "description": "Theme based off Discords color palette.",
+  "version": "0.0.1",
+  "icon": "assets/discord-code-block-theme-logo.png",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Discord Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Discord Theme-color-theme.json"
+      }
+    ]
+  }
+}
