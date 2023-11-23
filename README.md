@@ -1,5 +1,5 @@
 # Discord Code Block Theme
-> Basically a theme that looks like Discord code blocks.
+> Basically a theme that looks like Discord's code blocks.
 > # Code block:
 > ![example](assets/example.png)
 > # This theme:

@@ -3,7 +3,7 @@
   "publisher": "its-a-me-dood",
   "displayName": "Discord Code Block Theme",
   "description": "Basically a theme that looks like Discord's code blocks.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "assets/discord-code-block-theme-logo.png",
   "repository": {
     "url": "https://github.com/itsamedood/discord-code-block-theme"
@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Discord Theme",
+        "label": "Discord Code Block Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Discord Theme-color-theme.json"
       }
