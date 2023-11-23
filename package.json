@@ -2,8 +2,8 @@
   "name": "discord-code-block-theme",
   "publisher": "its-a-me-dood",
   "displayName": "Discord Code Block Theme",
-  "description": "Theme based off Discords color palette.",
-  "version": "1.0.0",
+  "description": "Basically a theme that looks like Discord's code blocks.",
+  "version": "1.0.1",
   "icon": "assets/discord-code-block-theme-logo.png",
   "repository": {
     "url": "https://github.com/itsamedood/discord-code-block-theme"
